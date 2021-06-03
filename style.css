@@ -16,3 +16,13 @@ canvas{
     from {box-shadow: 1px 1px 38px blue;}
     to {box-shadow: 1px 1px 38px aqua;}
 }
+
+.copy_right_footer{
+    background-color: aqua;
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    color: blue;
+}
